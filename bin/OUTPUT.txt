@@ -1,0 +1,141 @@
+Name: Quan Luu
+Student ID: 31529099
+NetID: qluu2
+Lab section: MW 6h15 - 7h30
+Project: 3
+
+Compile: (this is running on the ur.txt)
+ * show: well there is going to a graphics interface
+ 
+ * directions: i'll show a simple case, should print out the path and the total distance in miles
+ 
+ [-directions MELIORA-NORTH i4]:
+ Shortest path: MELIORA-NORTH -> i56 -> i43 -> RUSH-RHEES -> i42 -> i55 -> i54 -> i29 -> i28 -> i40 -> i21 -> i15 -> i13 -> i8 -> i7 -> i6 -> i4
+ Total distance: 0.2994471894744745 miles
+ 
+ * meridian map: should print out all the roads crossed
+ 
+ [-meridianmap]
+r1: GILBERT-LONG -> i2
+r14: i9 -> i10
+r156: i74 -> GOERGEN
+r9: i6 -> i7
+r34: i19 -> i22
+r30: i18 -> i22
+r4: TIERNAN-SHORT -> i3
+r11: i7 -> i8
+r130: i63 -> HARKNESS
+r12: i8 -> i9
+r28: i17 -> i18
+r37: i20 -> i19
+r101: i50 -> i48
+r115: i49 -> i53
+r45: i23 -> i24
+r67: i37 -> i38
+r59: i26 -> i32
+r47: i24 -> i25
+r167: i76 -> UHS
+r52: i34 -> i35
+r153: i73 -> i71
+r41: i16 -> i41
+r49: i26 -> i27
+r56: i35 -> BURTON
+r55: CROSBY -> i27
+r2: i1 -> i2
+r105: i52 -> i47
+r3: i1 -> i3
+r161: i75 -> CSB
+r150: i70 -> i71
+r154: i72 -> WILMOT
+r176: i82 -> ANDERSON
+r22: i8 -> i13
+r73: i30 -> i29
+r79: RETTNER -> i39
+r165: i77 -> i76
+r21: i11 -> i3
+r142: SIMON -> i53
+r61: i24 -> i32
+r5: i2 -> i4
+r179: i82 -> SAGE
+r40: i40 -> i28
+r162: i54 -> i30
+r17: i10 -> i11
+r53: i35 -> i36
+r32: i15 -> HOEING
+r51: i23 -> i34
+r68: i38 -> LECHASE
+r133: i64 -> GAVETT
+r7: i4 -> i5
+r139: i67 -> WALLIS
+r136: i65 -> GAVETT
+r20: i11 -> TIERNAN-COMMON
+r26: i14 -> i18
+r72: i33 -> i30
+r24: i14 -> LOVEJOY
+r19: i12 -> i11
+r114: i49 -> i47
+r6: GILBERT-COMMON -> i4
+r76: i33 -> WILSON
+r104: i50 -> i52
+r126: i58 -> i61
+r75: i29 -> i28
+r33: i15 -> i19
+r93: i44 -> i45
+r83: i55 -> i42
+r96: i45 -> HOYT
+r86: RUSH-RHEES -> i43
+r122: i57 -> i58
+r137: i65 -> i66
+r99: i38 -> i51
+r159: i75 -> HYLAN
+r138: i66 -> HOPEMAN
+r58: i25 -> i31
+r118: i60 -> ITS
+r98: i39 -> TUNNEL-MOREY
+r177: i82 -> WILDER
+r31: i13 -> i15
+r78: WILSON -> RETTNER
+r120: i59 -> i58
+r39: i21 -> i40
+r85: i42 -> RUSH-RHEES
+r123: i57 -> MELIORA-NORTH
+r66: i36 -> i37
+r25: i14 -> i16
+r144: HOPEMAN -> i67
+r119: ITS -> i59
+r42: i41 -> i36
+r35: i15 -> i21
+r125: i56 -> i43
+r160: i75 -> HUTCH-UPPER
+r90: i43 -> B&L
+r127: i61 -> i62
+r157: i74 -> i75
+r140: i67 -> GLEASON-HALL
+r87: i42 -> MOREY
+r128: i62 -> MELIORA-SOUTH
+r113: DEWEY -> i49
+r102: i48 -> LATTIMORE
+r180: i54 -> GOERGEN-ATHLETIC
+r141: GLEASON-HALL -> SIMON
+r103: LATTIMORE -> i44
+r151: i71 -> i68
+r92: MOREY -> i44
+r124: MELIORA-NORTH -> i56
+r178: i82 -> OBRIEN
+r145: i66 -> i68
+r164: i78 -> i77
+r181: GOERGEN-ATHLETIC -> i79
+r169: SUEB -> i77
+r129: MELIORA-SOUTH -> i63
+r152: i68 -> i72
+r175: i81 -> i82
+r148: i69 -> i70
+r155: i73 -> i74
+r147: i69 -> HUTCH-LOWER
+r135: i65 -> TUNNEL-HOYT
+r173: SPURRIER -> i81
+r100: i50 -> i51
+r174: i80 -> i81
+r166: i76 -> i60
+r171: i78 -> i80
+r84: i41 -> WILSON-BRIDGE
